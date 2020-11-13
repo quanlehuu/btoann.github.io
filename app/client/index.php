@@ -4,9 +4,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
+        <link rel="stylesheet" href="view/css/icons/css/fontello.css">
     </head>
-    <link rel="stylesheet" href="icons/fontello-codes.css">
     <body>
-        
+        <i class="icon-duckduckgo"></i>
     </body>
 </html>
