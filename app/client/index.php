@@ -8,5 +8,7 @@
     </head>
     <body>
         <i class="icon-duckduckgo"></i>
+        <i class="icon-appstore"></i>
+        <i class="icon-weibo-1"></i>
     </body>
 </html>
